@@ -9,7 +9,7 @@
  ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝
 ```
 
-### Founder & CEO · [@Genthropic](https://github.com/buildceo) · Intelligence, engineered.
+### Founder & CEO · [@Genthropic](https://genthropic.com/) · Intelligence, engineered.
 
 [![Portfolio](https://img.shields.io/badge/chavanshubham.com-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://chavanshubham.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/genthropic)
@@ -26,7 +26,7 @@ Genthropic is an AI agency that builds automation and integration systems for bu
 - 🔧 **Automation & integration** — AI systems wired directly into existing business workflows
 - ⚙️ **Agentic infrastructure** — multi-step, tool-using agents built for production, not demos
 - 🧠 **Revenue-funded R&D** — client work bankrolls in-house products like ModusBrain
-- 🌐 [why-genthropic →](https://chavanshubham.com)
+- 🌐 [why-genthropic →](https://genthropic.com/why-genthropic)
 
 ---
 
@@ -77,7 +77,7 @@ Think of it as the difference between hiring a brilliant contractor who's never 
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=thebuildceo&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebuildceo&theme=radical&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00" width="49%" />
