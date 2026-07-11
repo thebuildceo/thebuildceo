@@ -92,7 +92,6 @@ Think of it as the difference between hiring a brilliant contractor who's never 
 
 ### 🌐 Currently building in Pune, India 🇮🇳
 
-*Diploma student, AI & ML — Zeal Polytechnic (MSBTE)*
 *YC Startup School 2025 — AI-First Focus, Active Founder Track*
 
 </div>
