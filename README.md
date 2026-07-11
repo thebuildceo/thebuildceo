@@ -18,7 +18,8 @@
 
 </div>
 
----
+### Founder & CEO · [@Genthropic](https://github.com/thebuildceo) · Intelligence, engineered.
+
 [![Portfolio](https://img.shields.io/badge/chavanshubham.com-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://chavanshubham.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/genthropic)
 [![Email](https://img.shields.io/badge/genthropic@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genthropic@gmail.com)
@@ -57,6 +58,10 @@ ModusBrain is an operational knowledge and skill-compilation layer for AI agents
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -64,10 +69,10 @@ ModusBrain is an operational knowledge and skill-compilation layer for AI agents
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=buildceo&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildceo&theme=radical&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thebuildceo&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=C8FF00&icon_color=C8FF00&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thebuildceo&theme=radical&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildceo&theme=react-dark&bg_color=0D0D0D&color=C8FF00&line=C8FF00&point=FFFFFF&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thebuildceo&theme=react-dark&bg_color=0D0D0D&color=C8FF00&line=C8FF00&point=FFFFFF&hide_border=true" width="98%" />
 
 </div>
 
