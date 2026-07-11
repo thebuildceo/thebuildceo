@@ -42,7 +42,19 @@ Think of it as the difference between hiring a brilliant contractor who's never 
 - 🛠️ **Actively in development** — logo direction, brand copy, and core architecture underway
 
 ---
+### 🛠️ GenSparx
 
+GenSparx is an AI gateway that connects chat apps directly to coding agents — one Gateway process, every channel. Message your agent from WhatsApp, Telegram, Discord, or iMessage, and it handles the rest through a single unified routing layer.
+
+- 🌐 **Multi-channel gateway** — WhatsApp, Telegram, Discord, and iMessage through one Gateway process, with plugin support for channels like Mattermost
+- 🤖 **Agent routing** — isolated sessions per agent, workspace, or sender, so multiple agents can run cleanly side by side
+- 🖼️ **Media support** — send and receive images, audio, and documents natively through chat
+- 🖥️ **Web Control UI** — a full browser dashboard for chat, config, sessions, and connected nodes
+- 📱 **Mobile nodes** — pair iOS and Android devices with Canvas support for a native mobile experience
+- 📦 **Published as a package** — released the [`gensparx`](https://www.npmjs.com/package/gensparx) npm package
+- 🌱 **The starting point** — the original AI agency and product brand that laid the groundwork for Genthropic
+
+---
 ### 🛠️ Tech Stack
 
 **Languages**
