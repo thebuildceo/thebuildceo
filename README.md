@@ -8,7 +8,7 @@
 ╚██████╔╝███████╗██║ ╚████║   ██║   ██║  ██║██║  ██║╚██████╔╝██║     ██║╚██████╗
  ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝
 ```
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Agentic+AI+Infrastructure;Founder+%40Genthropic;Architecting+ModusBrain" alt="Typing SVG" />
 ### Founder & CEO · [@Genthropic](https://genthropic.com/) · Intelligence, engineered.
 
 [![Portfolio](https://img.shields.io/badge/chavanshubham.com-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://chavanshubham.com)
