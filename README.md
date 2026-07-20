@@ -30,7 +30,7 @@ Genthropic is an AI agency that builds automation and integration systems for bu
 
 ---
 
-### 🧩 ModusBrain — the company brain, not another AI wrapper
+### 🧩 [Modusbrain →](https://modusbrain.com/) — the company brain, not another AI wrapper
 
 Most "AI agent" tools give you a smarter chatbot with amnesia — every run it re-learns how your company actually works. ModusBrain doesn't. It's an operational knowledge and skill-compilation layer that turns your team's tribal knowledge, SOPs, and edge cases into structured, reusable skills your agents can pull from every single time.
 
