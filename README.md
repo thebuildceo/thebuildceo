@@ -19,7 +19,7 @@
 </div>
 
 
-### 🏢 Genthropic — Intelligence, engineered.
+### 🏢 [Genthropic →](https://genthropic.com/) — Intelligence, engineered.
 
 Genthropic is an AI agency that builds automation and integration systems for businesses that want AI running *inside* their operations — not sitting on top as a chatbot demo. We design, ship, and maintain agentic workflows and custom AI infrastructure for real clients, and we use that revenue to self-fund independent product R&D instead of chasing outside capital first.
 
@@ -42,7 +42,7 @@ Think of it as the difference between hiring a brilliant contractor who's never 
 - 🛠️ **Actively in development** — logo direction, brand copy, and core architecture underway
 
 ---
-### 🛠️ GenSparx
+### 🛠️ [Gensparx →](https://gensparx.com/)
 
 GenSparx is an AI gateway that connects chat apps directly to coding agents — one Gateway process, every channel. Message your agent from WhatsApp, Telegram, Discord, or iMessage, and it handles the rest through a single unified routing layer.
 
