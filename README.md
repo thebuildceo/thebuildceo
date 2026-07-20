@@ -100,9 +100,15 @@ GenSparx is an AI gateway that connects chat apps directly to coding agents — 
 
 *YC Startup School 2025 — AI-First Focus, Active Founder Track
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" width="80%" />
-</div>
+<details>
+  <summary><b>⚡ <code>system_architecture.log</code> (Click to inspect)</b></summary>
+  <br />
+  <pre>
+[GENTHROPIC_CORE]: Initializing production agent loops...
+[MODUSBRAIN]: Compiling SOPs & organizational memory into deterministic skills.
+[STATUS]: 100% Operational | Zero stateless amnesia.
+  </pre>
+</details>
 
 </div>
 <p align="center">
