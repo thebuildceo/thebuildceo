@@ -92,9 +92,9 @@ GenSparx is an AI gateway that connects chat apps directly to coding agents — 
 ### GitHub Stats
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thebuildceo&theme=radical&hide_border=true&background=0D0D0D&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thebuildceo&theme=radical&hide_border=true&background=0D0D0D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thebuildceo&theme=react-dark&bg_color=0D0D0D&color=C8FF00&line=C8FF00&point=FFFFFF&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thebuildceo&theme=react-dark&bg_color=0D0D0D&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" width="98%" />
 
 </div>
 
