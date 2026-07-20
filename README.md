@@ -19,7 +19,7 @@
 </div>
 
 
-### 🏢 [Genthropic →](https://genthropic.com/) — Intelligence, engineered.
+### 🏢 [Genthropic →](https://genthropic.com/) Intelligence, engineered.
 
 Genthropic is an AI agency that builds automation and integration systems for businesses that want AI running *inside* their operations — not sitting on top as a chatbot demo. We design, ship, and maintain agentic workflows and custom AI infrastructure for real clients, and we use that revenue to self-fund independent product R&D instead of chasing outside capital first.
 
@@ -30,7 +30,7 @@ Genthropic is an AI agency that builds automation and integration systems for bu
 
 ---
 
-### 🧩 [Modusbrain →](https://modusbrain.com/) — the company brain, not another AI wrapper
+### 🧩 [Modusbrain →](https://modusbrain.com/) the company brain, not another AI wrapper
 
 Most "AI agent" tools give you a smarter chatbot with amnesia — every run it re-learns how your company actually works. ModusBrain doesn't. It's an operational knowledge and skill-compilation layer that turns your team's tribal knowledge, SOPs, and edge cases into structured, reusable skills your agents can pull from every single time.
 
@@ -42,7 +42,7 @@ Think of it as the difference between hiring a brilliant contractor who's never 
 - 🛠️ **Actively in development** — logo direction, brand copy, and core architecture underway
 
 ---
-### 🛠️ [Gensparx →](https://gensparx.com/)
+### 🛠️ [Gensparx ](https://gensparx.com/)
 
 GenSparx is an AI gateway that connects chat apps directly to coding agents — one Gateway process, every channel. Message your agent from WhatsApp, Telegram, Discord, or iMessage, and it handles the rest through a single unified routing layer.
 
