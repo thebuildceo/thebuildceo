@@ -93,7 +93,9 @@ GenSparx is an AI gateway that connects chat apps directly to coding agents — 
 </div>
 
 ---
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thebuildceo&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Activity" />
+</div>
 <div align="center">
 
 ### 🌐 Currently building in Pune, India 🇮🇳
