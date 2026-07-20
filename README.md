@@ -9,11 +9,11 @@
  ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝
 ```
 
-<div align="center">
-
 ### Founder & CEO · [@Genthropic](https://genthropic.com/) · Intelligence, engineered.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Agentic+AI+Infrastructure;Founder+%40Genthropic;Architecting+ModusBrain" alt="Typing SVG" />
+<a href="https://genthropic.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Agentic+AI+Infrastructure;Founder+%40Genthropic;Architecting+ModusBrain" alt="Typing SVG" />
+</a>
 
 <br /><br />
 
