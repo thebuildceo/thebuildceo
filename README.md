@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/genthropic)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/genthropic/)
 [![Email](https://img.shields.io/badge/genthropic@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genthropic@gmail.com)
-[![Instagram](https://img.shields.io/badge/@CEOWINS-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/CEOWINS)
+[![Instagram](https://img.shields.io/badge/@sexpires-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sexpires)
 
 </div>
 
