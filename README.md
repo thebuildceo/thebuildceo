@@ -10,7 +10,8 @@
 ```
 
 
-### Founder & CEO · [@Genthropic](https://genthropic.com/) · Intelligence, engineered.Old account hacked with over 100k commmit history
+### Founder & CEO · [@Genthropic](https://genthropic.com/) · Intelligence, engineered.
+            Old account hacked with over 100k commmit history
 
 <a href="https://genthropic.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=30&lines=Building+Agentic+AI+Infrastructure;Founder+%40Genthropic;Architecting+ModusBrain" alt="Typing SVG" />
