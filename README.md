@@ -11,7 +11,7 @@
 
 
 ### Founder & CEO · [@Genthropic](https://genthropic.com/) · Intelligence, engineered.
-            My previous account (with 100k+ commits) was permanently closed due to a security breach.
+           My previous account (with 100k+ commits) was permanently closed due to a security breach.
 
 <a href="https://genthropic.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=30&lines=Building+Agentic+AI+Infrastructure;Founder+%40Genthropic;Architecting+ModusBrain" alt="Typing SVG" />
