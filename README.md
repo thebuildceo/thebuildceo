@@ -42,11 +42,24 @@ Genthropic is an AI agency that builds automation and integration systems for bu
 
 ### 🫧 [Sluely →](https://github.com/YOUR_USERNAME/sluely) the always-on assistant, running locally
 
-Sluely is a local, open-source take on Cluely. It runs on Ollama, so there are no API bills and your data stays on your machine. It's built as an always-on assistant for everyday work, not for one narrow use case.
+<details>
+  <summary><b>🔒 Why Sluely exists (Click to expand)</b></summary>
+  <br />
+  <blockquote>
+    "An assistant you rely on all day shouldn't depend on a metered API or send your screen and conversations to someone else's servers."
+  </blockquote>
+</details>
 
-- 🖥️ **Runs locally** — powered by Ollama, free to run
-- 🔓 **Open source** — inspect it, modify it, self-host it
-- ⚡ **Always-on** — a persistent assistant that's there when you need it
+Sluely is a local, open-source alternative to Cluely. It aims for the same feature set, but runs on your own machine through Ollama instead of a paid cloud backend. It's built as an always-on assistant for general work, meetings, research, and writing, not for any single narrow use case.
+
+- 🖥️ **Fully local** — runs on Ollama, so there's no per-token cost and no subscription
+- 🔐 **Private by default** — inference stays on your device, and your data isn't sent to third-party servers
+- 🔓 **Open source** — read the code, modify it, self-host it
+- ⚡ **Always-on** — a persistent assistant that sits alongside your work instead of a tab you have to open
+- 🔁 **Model-flexible** — swap in any model Ollama supports to fit your hardware
+- 🎯 **General-purpose** — positioned as an everyday assistant, not a tool for one scenario
+
+**Stack:** Ollama · local LLMs · TypeScript
 
 --- 
 ### 🧩 [Modusbrain →](https://modusbrain.com/) the company brain, not another AI wrapper
