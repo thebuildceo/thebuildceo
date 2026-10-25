@@ -39,6 +39,15 @@ Genthropic is an AI agency that builds automation and integration systems for bu
 
 ---
 
+
+### 🫧 [Sluely →](https://github.com/YOUR_USERNAME/sluely) the always-on assistant, running locally
+
+Sluely is a local, open-source take on Cluely. It runs on Ollama, so there are no API bills and your data stays on your machine. It's built as an always-on assistant for everyday work, not for one narrow use case.
+
+- 🖥️ **Runs locally** — powered by Ollama, free to run
+- 🔓 **Open source** — inspect it, modify it, self-host it
+- ⚡ **Always-on** — a persistent assistant that's there when you need it
+  
 ### 🧩 [Modusbrain →](https://modusbrain.com/) the company brain, not another AI wrapper
 
 <details>
