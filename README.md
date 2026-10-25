@@ -40,7 +40,7 @@ Genthropic is an AI agency that builds automation and integration systems for bu
 ---
 
 
-### 🫧 [Sluely →](https://github.com/YOUR_USERNAME/sluely) An undetectable AI companion that sees your screen and provides real-time answers.
+### 🫧 [Sluely →](https://sluely.com/) An undetectable AI companion that sees your screen and provides real-time answers.
 
 <details>
   <summary><b>🔒 Why Sluely exists (Click to expand)</b></summary>
