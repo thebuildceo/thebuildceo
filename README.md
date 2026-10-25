@@ -47,7 +47,8 @@ Sluely is a local, open-source take on Cluely. It runs on Ollama, so there are n
 - 🖥️ **Runs locally** — powered by Ollama, free to run
 - 🔓 **Open source** — inspect it, modify it, self-host it
 - ⚡ **Always-on** — a persistent assistant that's there when you need it
-  
+
+--- 
 ### 🧩 [Modusbrain →](https://modusbrain.com/) the company brain, not another AI wrapper
 
 <details>
